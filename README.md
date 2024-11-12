@@ -3,7 +3,7 @@ Welcome to this data analysis and visualization project! In this project, we wil
 
 Here are your tasks outlined in detail:
 
-Data Cleaning: The initial dataset contains some unnecessary and redundant information. Your first task is to clean and prepare it for analysis. In doing so:
+Data Cleaning: The initial dataset contains some unnecessary and redundant information. The first task is to clean and prepare it for analysis. In doing so:
 - Remove the 'Unnamed: 0' column from the dataset.
 
 - Removing the Newline Characters.
