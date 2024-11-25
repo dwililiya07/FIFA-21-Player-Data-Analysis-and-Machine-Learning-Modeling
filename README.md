@@ -20,3 +20,10 @@ Data Visualization: After the data has been cleaned and prepared, use appropriat
 - Visualize the best FIFA teams from 100 players based on the 'OVA' score using a Bar Plot.
 - Use a Bar Plot to display the top 10 most valuable FIFA teams.
 - Create a Scatter Plot to show players who are highly valuable but still underpaid
+
+# FIFA-21-Player-Modelling
+In this Machine Learning Project, we will create our own supervised Machine Learning (ML) model. We will use the full FIFA21 Dataset and we will identify players that are above average.
+
+We will use the column "Overall" with a treshold of 75 to define players that are 'Valuable'. This will become our target output which we need for a supervised ML model. Because we use the "Overall" as our target output, we cannot use "Overall" in our features.
+
+This project will provide a comprehensive overview of your abilities in machine learning, from understanding the problem, choosing the right model, training, and optimizing it.
